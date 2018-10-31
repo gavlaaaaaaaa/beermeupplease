@@ -20,7 +20,7 @@ html {
 body {
 	background: $white;
   font: 18px/1.4 $helvetica;
-  background: url("images/beerbackground.jpg");
+//  background: url("images/beerbackground.jpg");
   color: $darkGray;
 }
 
@@ -35,8 +35,8 @@ body {
   margin: 0 auto;
   padding: 0 10px;
   width: 100%;
-  background: url("images/beerhead.png");
-  
+//  background: url("images/beerhead.png");
+  background: $beer;
 }
 
 h1, h2, h3, h4, h5, h6 {
