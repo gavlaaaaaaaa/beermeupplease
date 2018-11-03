@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I go by [@beer.me.up.please](https://instagram.com/beer.me.up.please) on Instagram and love hunting down and reviewing craft beers in the UK.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Please feel free to contact me by [Email](mailto:lewisdgavin@lewisgavin.co.uk) or on [Instagram](https://instagram.com/beer.me.up.please) if:
+- you would like me to review your beer
+- you have a question about any of my reviews
+- you would like to arrange a trade
+
