@@ -1,9 +1,12 @@
 ---
 layout: post
+title: Beer Review | SMALL CHINOOK EL DORADO - Cloudwater
+tags: 
+- session ipa
 author: Lewis Gavin
 ---
 
-![latest craft beerSmall Chinook El Dorado @cloudwaterbrew lived expectations.This cloudy hazy session](https://instagram.fman1-1.fna.fbcdn.net/vp/d1006941cae43a1176643f936837e064/5C7F3ECB/t51.2885-15/sh0.08/e35/p750x750/43779202_245535026117092_7482609289220019212_n.jpg?ig_cache_key=MTg5MDY1MzAzMzU1NDIzNzYyNg%3D%3D.2)
+![latest craft beer review Small Chinook El Dorado @cloudwaterbrew lived expectations.This cloudy hazy session](https://instagram.fman1-1.fna.fbcdn.net/vp/d1006941cae43a1176643f936837e064/5C7F3ECB/t51.2885-15/sh0.08/e35/p750x750/43779202_245535026117092_7482609289220019212_n.jpg?ig_cache_key=MTg5MDY1MzAzMzU1NDIzNzYyNg%3D%3D.2)
 
 Small Chinook El Dorado by @cloudwaterbrew lived up to expectations.
 
