@@ -42,7 +42,7 @@ for post in feed:
 
 	post_name=time.strftime('%Y-%m-%d', time.localtime(post_time))+'-'+url_string.lower()+".md"
 
-	f = open('_posts/'+post_name, "a")
+	f = open('temp/_posts/'+post_name, "a")
 	f.write('---\nlayout: post\nauthor: Lewis Gavin\n---\n\n')
 	f.write("![latest craft beer"+url_words+"](" + post_image + ")\n\n")
 	f.write(post_text.encode('utf-8'))
