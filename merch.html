@@ -4,13 +4,18 @@ layout: default
 
 <div class="posts">
   <a href="https://learn.beerandbrewing.com/catalog?tap_a=21409-7ac0b5&tap_s=351518-7ef3ec" target="_BLANK" rel="nofollow"><img src="https://static.tapfiliate.com/59402b0805eab.jpg?a=21409-7ac0b5&s=351518-7ef3ec" border="0"></a>
+  {% for post in site.posts %}
+   {% if post.tags contains 'merch' %}
     <article class="post">
 
-      <h1>Merch</h1>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
-           <iframe src="https://www.redbubble.com/people/lewisdgavin/works/36514966-good-people-drink-good-beer?asc=u&p=t-shirt"></iframe>
+        {{ post.excerpt }}
       </div>
 
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
+   {% endif %}
+  {% endfor %}
 </div>
