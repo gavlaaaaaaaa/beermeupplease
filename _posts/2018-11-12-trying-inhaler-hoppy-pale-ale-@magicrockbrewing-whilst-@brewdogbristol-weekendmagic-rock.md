@@ -2,7 +2,7 @@
 layout: post
 title: Beer Review | INHALER - Magic Rock
 tags:
-- milkshake ipa
+- pale ale
 author: Lewis Gavin
 ---
 

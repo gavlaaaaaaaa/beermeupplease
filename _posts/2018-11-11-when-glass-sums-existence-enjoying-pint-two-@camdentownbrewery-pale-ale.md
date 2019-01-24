@@ -2,7 +2,7 @@
 layout: post
 title: Beer Review | CAMDEN PALE ALE - Camden Town Brewery
 tags:
-- milkshake ipa
+- pale ale
 author: Lewis Gavin
 ---
 

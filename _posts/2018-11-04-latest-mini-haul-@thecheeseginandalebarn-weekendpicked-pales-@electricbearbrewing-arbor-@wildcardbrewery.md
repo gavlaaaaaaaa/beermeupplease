@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beer Review | BEER HAUL - The Cheese Gin and Ale Barn
+title: Beer Haul | MINI HAUL - The Cheese Gin and Ale Barn
 tags:
 - pale ale
 author: Lewis Gavin
