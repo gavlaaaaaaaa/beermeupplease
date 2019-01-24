@@ -9,7 +9,7 @@ name: Beer.Me.Up.Please
 description: Beer Reviews to Fuel your Beer Obesession
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: beermeupplease.jpg 
+avatar: "images/beermeupplease.jpg" 
 
 #
 # Flags below are optional
