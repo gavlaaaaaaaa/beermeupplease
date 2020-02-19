@@ -26,15 +26,30 @@ layout: default
         </form>  
 </table>
 
-  <div class="PageNavigation">
+
+<div class="PageNavigation">
+    <h1>Recommended Posts</h1>
   {% if page.previous.url %}
-   <a class="prev" href="/beermeupplease{{page.previous.url}}"><b><-- Previous | </b>&laquo; {{page.previous.title}}</a>
+      <h1><a href="/beermeupplease{{ page.previous.url }}">{{page.previous.title}}</a></h1>
+
+      <div class="entry">
+        {{ page.previous.excerpt }}
+      </div>
+
+      <a href="/beermeupplease{{ page.previous.url }}" class="read-more">Read More</a>
   {% endif %}
   <br><br>
   {% if page.next.url %}
-    <a class="next" href="/beermeupplease{{page.next.url}}">{{page.next.title}} &raquo; <b>Next --></b></a>
+    <h1><a href="/beermeupplease{{ page.next.url }}">{{page.next.title}}</a></h1>
+
+      <div class="entry">
+        {{ page.next.excerpt }}
+      </div>
+
+      <a href="/beermeupplease{{ page.next.url }}" class="read-more">Read More</a></a>
   {% endif %}
   </div>
+
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
