@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Djentle table beer collaboration @twistedbarrelale X @ridgesidebrewery](https://instagram.fman1-1.fna.fbcdn.net/vp/f9087516af54f837f62254be7ff0c3d3/5C7E8DF8/t51.2885-15/sh0.08/e35/p750x750/41829521_717032795349085_1759252982492280178_n.jpg?ig_cache_key=MTg4MDQ5OTMzMTU0MzUxNzgxMQ%3D%3D.2)
+![latest craft beer review Djentle table beer collaboration @twistedbarrelale X @ridgesidebrewery](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-01-beer-review-keeping-light-"djentle"-monday-table-beer-collaboration-@twistedbarrelale-x-@ridgesidebrewery.png)
 
 ***
 **ABV:** 2.7%
