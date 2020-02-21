@@ -8,21 +8,48 @@ layout: default
   <div class="entry">
       <a href="https://learn.beerandbrewing.com/?tap_a=21406-5886bb&tap_s=351518-7ef3ec" target="_BLANK" rel="nofollow"><img src="https://static.tapfiliate.com/594028a6b8dff.jpg?a=21406-5886bb&s=351518-7ef3ec" border="0"></a>
       {{ content }}
-    
-    <h3> Get your hands on a set of 4 craft beer glasses like those featured in my reviews using the link below </h3>  
-    <iframe style="height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=beermeuppleas-21&marketplace=amazon&region=GB&placement=B01N1HY9NL&asins=B01N1HY9NL&linkId=f6764959739d79ee799f39c9f145f9cb&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
-  </div> 
 
-  <div class="PageNavigation">
+<table style="width: 100%">
+<tr>
+  <td><h3> Like the glasses I use?</h3></td> 
+  <td><h3> Craft Beer for The People [Book]</h3></td>
+</tr>
+<tr>
+  <td>
+	<form action="https://www.amazon.co.uk/gp/product/B00UCVD7IY/ref=as_li_tl?ie=UTF8&tag=beermeuppleas-21&camp=1634&creative=6738&linkCode=as2&creativeASIN=B00UCVD7IY&linkId=612452c01d2bdbe1fbd745fd4a622f98">
+   	   <input type="submit" style="font-size: 16px;" value="Click Here to Buy on Amazon" />
+	</form>
+  </td>
+  <td>
+      <form action="https://www.amazon.co.uk/gp/product/1784722952/ref=as_li_tl?ie=UTF8&tag=beermeuppleas-21&camp=1634&creative=6738&linkCode=as2&creativeASIN=1784722952&linkId=bb2bfe67f34ad9cd30b6de615ec3983f">
+           <input type="submit" style="font-size: 16px;" value="Click Here to Buy on Amazon" />                         
+        </form>  
+</table>
+
+
+<div class="PageNavigation">
+    <h1>Recommended Posts</h1>
   {% if page.previous.url %}
-   <a class="prev" href="/beermeupplease{{page.previous.url}}"><b><-- Previous | </b>&laquo; {{page.previous.title}}</a>
+      <h1><a href="/beermeupplease{{ page.previous.url }}">{{page.previous.title}}</a></h1>
+
+      <div class="entry">
+        {{ page.previous.excerpt }}
+      </div>
+
+      <a href="/beermeupplease{{ page.previous.url }}" class="read-more">Read More</a>
   {% endif %}
   <br><br>
   {% if page.next.url %}
-    <a class="next" href="/beermeupplease{{page.next.url}}">{{page.next.title}} &raquo; <b>Next --></b></a>
+    <h1><a href="/beermeupplease{{ page.next.url }}">{{page.next.title}}</a></h1>
+
+      <div class="entry">
+        {{ page.next.excerpt }}
+      </div>
+
+      <a href="/beermeupplease{{ page.next.url }}" class="read-more">Read More</a></a>
   {% endif %}
   </div>
+
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
