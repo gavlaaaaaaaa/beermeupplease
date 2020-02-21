@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Sneaky little Shape Shifter West Coast IPA @fourpure An aggressively](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-05-beer-review-sneaky-little-shape-shifter-west-coast-ipa-@fourpure-an-aggressively.png))
+![latest craft beer review Sneaky little Shape Shifter West Coast IPA @fourpure An aggressively](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-05-beer-review-sneaky-little-shape-shifter-west-coast-ipa-@fourpure-an-aggressively.png)
 
 ***
 **ABV:** 5.9%

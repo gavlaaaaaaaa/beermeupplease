@@ -9,7 +9,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer Brewdog paradox uncle duke imperial stout](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-03-the-end-is-here-@brewdogofficial-advent:day-24_the-last-day-brewdog.png))
+![latest craft beer Brewdog paradox uncle duke imperial stout](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-03-the-end-is-here-@brewdogofficial-advent:day-24_the-last-day-brewdog.png)
 
 ***
 **ABV:** 13.2%

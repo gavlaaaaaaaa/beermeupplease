@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Zenne-Like Belgian IPA @magicrockbrewing another winner](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-22-beer-review-zenne-like-belgian-ipa-@magicrockbrewing-another-winner@magicrockbrewing-killing-beers-this-powerful.png))
+![latest craft beer review Zenne-Like Belgian IPA @magicrockbrewing another winner](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-22-beer-review-zenne-like-belgian-ipa-@magicrockbrewing-another-winner@magicrockbrewing-killing-beers-this-powerful.png)
 
 ***
 **ABV:** 6.5%

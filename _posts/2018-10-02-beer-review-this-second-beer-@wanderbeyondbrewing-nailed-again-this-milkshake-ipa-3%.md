@@ -8,7 +8,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review wander beyond Milkshake IPA](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-02-beer-review-this-second-beer-@wanderbeyondbrewing-nailed-again-this-milkshake-ipa-3%.png))
+![latest craft beer review wander beyond Milkshake IPA](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-02-beer-review-this-second-beer-@wanderbeyondbrewing-nailed-again-this-milkshake-ipa-3%.png)
 
 ***
 **ABV:** 3%

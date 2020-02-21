@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer gulden draak van steenberge ](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-09-something-little-special-i-picked-christmas-present-dad-gift-set.png))
+![latest craft beer gulden draak van steenberge ](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-09-something-little-special-i-picked-christmas-present-dad-gift-set.png)
 
 ***
 **ABV:** 10.5%

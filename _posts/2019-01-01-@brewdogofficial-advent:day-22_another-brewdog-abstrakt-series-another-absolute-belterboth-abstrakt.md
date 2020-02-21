@@ -8,7 +8,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer @brewdogofficial Advent:DAY 22 Another Brewdog Abstrakt series another absolute belter. AB26](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-01-@brewdogofficial-advent:day-22_another-brewdog-abstrakt-series-another-absolute-belterboth-abstrakt.png))
+![latest craft beer @brewdogofficial Advent:DAY 22 Another Brewdog Abstrakt series another absolute belter. AB26](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-01-@brewdogofficial-advent:day-22_another-brewdog-abstrakt-series-another-absolute-belterboth-abstrakt.png)
 
 ***
 **ABV:** 11.5%

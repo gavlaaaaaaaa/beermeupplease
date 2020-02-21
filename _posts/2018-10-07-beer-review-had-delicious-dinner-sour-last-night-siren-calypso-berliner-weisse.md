@@ -7,7 +7,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Had delicious dinner sour last night. Siren Calypso Berliner Weisse](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-07-beer-review-had-delicious-dinner-sour-last-night-siren-calypso-berliner-weisse.png))
+![latest craft beer review Had delicious dinner sour last night. Siren Calypso Berliner Weisse](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-07-beer-review-had-delicious-dinner-sour-last-night-siren-calypso-berliner-weisse.png)
 
 ***
 **ABV:** 5.9%

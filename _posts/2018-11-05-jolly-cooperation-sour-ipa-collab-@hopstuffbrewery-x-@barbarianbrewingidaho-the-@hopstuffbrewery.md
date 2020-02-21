@@ -7,7 +7,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer Jolly Cooperation Sour IPA collab @hopstuffbrewery X @barbarianbrewingidaho The @hopstuffbrewery](https://www.lewisgavin.co.uk/beermeupplease/images/2018-11-05-jolly-cooperation-sour-ipa-collab-@hopstuffbrewery-x-@barbarianbrewingidaho-the-@hopstuffbrewery.png))
+![latest craft beer Jolly Cooperation Sour IPA collab @hopstuffbrewery X @barbarianbrewingidaho The @hopstuffbrewery](https://www.lewisgavin.co.uk/beermeupplease/images/2018-11-05-jolly-cooperation-sour-ipa-collab-@hopstuffbrewery-x-@barbarianbrewingidaho-the-@hopstuffbrewery.png)
 
 ***
 **ABV:** 6.9%

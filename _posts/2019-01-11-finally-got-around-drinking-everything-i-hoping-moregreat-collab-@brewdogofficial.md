@@ -7,7 +7,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer very big moose brewdog x fierce](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-11-finally-got-around-drinking-everything-i-hoping-moregreat-collab-@brewdogofficial.png))
+![latest craft beer very big moose brewdog x fierce](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-11-finally-got-around-drinking-everything-i-hoping-moregreat-collab-@brewdogofficial.png)
 
 ***
 **ABV:** 12%

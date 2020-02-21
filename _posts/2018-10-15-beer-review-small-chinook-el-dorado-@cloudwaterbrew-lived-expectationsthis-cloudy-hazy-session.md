@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Small Chinook El Dorado @cloudwaterbrew lived expectations.This cloudy hazy session](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-15-beer-review-small-chinook-el-dorado-@cloudwaterbrew-lived-expectationsthis-cloudy-hazy-session.png))
+![latest craft beer review Small Chinook El Dorado @cloudwaterbrew lived expectations.This cloudy hazy session](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-15-beer-review-small-chinook-el-dorado-@cloudwaterbrew-lived-expectationsthis-cloudy-hazy-session.png)
 
 ***
 **ABV:** 2.9%

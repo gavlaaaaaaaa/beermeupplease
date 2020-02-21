@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Pint Boom Juice Mobberly brewhouse favourite beer house @beerbohmlichfield Light](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-26-beer-review-pint-boom-juice-mobberly-brewhouse-favourite-beer-house-@beerbohmlichfield-light.png))
+![latest craft beer review Pint Boom Juice Mobberly brewhouse favourite beer house @beerbohmlichfield Light](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-26-beer-review-pint-boom-juice-mobberly-brewhouse-favourite-beer-house-@beerbohmlichfield-light.png)
 
 ***
 **ABV:** 4.6%

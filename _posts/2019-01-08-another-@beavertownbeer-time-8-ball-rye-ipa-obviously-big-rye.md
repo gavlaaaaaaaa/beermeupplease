@@ -7,7 +7,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer 8 ball rye ipa beavertown](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-08-another-@beavertownbeer-time-8-ball-rye-ipa-obviously-big-rye.png))
+![latest craft beer 8 ball rye ipa beavertown](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-08-another-@beavertownbeer-time-8-ball-rye-ipa-obviously-big-rye.png)
 
 ***
 **ABV:** 6.2%

@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Quench Quake @brewdogofficial Grapefruit Tangerine sour This rather unique, dry fizz](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-16-beer-review-quench-quake-@brewdogofficial-grapefruit-tangerine-sourthis-rather-unique-dry-fizz.png))
+![latest craft beer review Quench Quake @brewdogofficial Grapefruit Tangerine sour This rather unique, dry fizz](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-16-beer-review-quench-quake-@brewdogofficial-grapefruit-tangerine-sourthis-rather-unique-dry-fizz.png)
 
 ***
 **ABV:** 4.6%

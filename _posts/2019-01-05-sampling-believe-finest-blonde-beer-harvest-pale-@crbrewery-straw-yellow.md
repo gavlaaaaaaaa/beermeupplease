@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer harvest pale castle rock](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-05-sampling-believe-finest-blonde-beer-harvest-pale-@crbrewery-straw-yellow.png))
+![latest craft beer harvest pale castle rock](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-05-sampling-believe-finest-blonde-beer-harvest-pale-@crbrewery-straw-yellow.png)
 
 ***
 **ABV:** 3.8%

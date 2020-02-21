@@ -7,7 +7,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer Ninkasi Ambree](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-03-@beerwulfwebshop-advent:day-23_coming-near-end-advent-posts-i-think-i.png))
+![latest craft beer Ninkasi Ambree](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-03-@beerwulfwebshop-advent:day-23_coming-near-end-advent-posts-i-think-i.png)
 
 ***
 **ABV:** 4.5%

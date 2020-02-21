@@ -8,7 +8,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer Brewedog Advent:DAY 23 Christmas Ten Ton Truck - 2018 edition](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-02-@brewdogofficial-advent:day-23_christmas-ten-ton-truck-2018-editionthis-badboy.png))
+![latest craft beer Brewedog Advent:DAY 23 Christmas Ten Ton Truck - 2018 edition](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-02-@brewdogofficial-advent:day-23_christmas-ten-ton-truck-2018-editionthis-badboy.png)
 
 ***
 **ABV:** 13.4%

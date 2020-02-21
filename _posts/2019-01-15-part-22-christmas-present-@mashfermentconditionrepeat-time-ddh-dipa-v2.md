@@ -7,7 +7,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer DDH DIPA v2 cloudwater](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-15-part-22-christmas-present-@mashfermentconditionrepeat-time-ddh-dipa-v2.png
+![latest craft beer DDH DIPA v2 cloudwater](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-15-part-22-christmas-present-@mashfermentconditionrepeat-time-ddh-dipa-v2.png)
 
 ***
 **ABV:** 6.5%

@@ -7,7 +7,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer DDH DIPA wildcard](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-07-whos-tried-ddh-dipa-@wildcardbrewery-i-tried-double-dry-hopped.png))
+![latest craft beer DDH DIPA wildcard](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-07-whos-tried-ddh-dipa-@wildcardbrewery-i-tried-double-dry-hopped.png)
 
 ***
 **ABV:** 8.1%

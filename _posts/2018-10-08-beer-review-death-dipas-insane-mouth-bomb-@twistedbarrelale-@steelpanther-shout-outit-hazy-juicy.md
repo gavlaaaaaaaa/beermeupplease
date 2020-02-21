@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Death DIPAs insane mouth bomb @twistedbarrelale @steelpanther shout-out!It hazy juicy](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-08-beer-review-death-dipas-insane-mouth-bomb-@twistedbarrelale-@steelpanther-shout-outit-hazy-juicy.png))
+![latest craft beer review Death DIPAs insane mouth bomb @twistedbarrelale @steelpanther shout-out!It hazy juicy](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-08-beer-review-death-dipas-insane-mouth-bomb-@twistedbarrelale-@steelpanther-shout-outit-hazy-juicy.png)
 
 ***
 **ABV:** 8%

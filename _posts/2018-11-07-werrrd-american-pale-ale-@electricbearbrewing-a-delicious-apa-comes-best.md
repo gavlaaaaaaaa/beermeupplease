@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Werrrd! American pale ale @electricbearbrewing A delicious APA comes best](https://www.lewisgavin.co.uk/beermeupplease/images/2018-11-07-werrrd-american-pale-ale-@electricbearbrewing-a-delicious-apa-comes-best.png))
+![latest craft beer review Werrrd! American pale ale @electricbearbrewing A delicious APA comes best](https://www.lewisgavin.co.uk/beermeupplease/images/2018-11-07-werrrd-american-pale-ale-@electricbearbrewing-a-delicious-apa-comes-best.png)
 
 ***
 **ABV:** 4.2%

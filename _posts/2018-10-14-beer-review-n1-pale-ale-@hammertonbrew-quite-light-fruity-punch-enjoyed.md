@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review N1 Pale Ale @hammertonbrew  quite light fruity punch. Enjoyed](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-14-beer-review-n1-pale-ale-@hammertonbrew-quite-light-fruity-punch-enjoyed.png))
+![latest craft beer review N1 Pale Ale @hammertonbrew  quite light fruity punch. Enjoyed](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-14-beer-review-n1-pale-ale-@hammertonbrew-quite-light-fruity-punch-enjoyed.png)
 
 ***
 **ABV:** 4.1%

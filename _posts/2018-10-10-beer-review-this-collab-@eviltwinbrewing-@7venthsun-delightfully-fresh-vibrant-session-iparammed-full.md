@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review This collab @eviltwinbrewing @7venthsun delightfully fresh vibrant session IPA.Rammed full](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-10-beer-review-this-collab-@eviltwinbrewing-@7venthsun-delightfully-fresh-vibrant-session-iparammed-full.png))
+![latest craft beer review This collab @eviltwinbrewing @7venthsun delightfully fresh vibrant session IPA.Rammed full](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-10-beer-review-this-collab-@eviltwinbrewing-@7venthsun-delightfully-fresh-vibrant-session-iparammed-full.png)
 
 ***
 **ABV:** 4.5%

@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Digital IPA @yeastieboysnz / @ukyeastieboys absolute banger.All solid characteristics IPA](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-19-beer-review-digital-ipa-@yeastieboysnz-@ukyeastieboys-absolute-bangerall-solid-characteristics-ipa.png))
+![latest craft beer review Digital IPA @yeastieboysnz / @ukyeastieboys absolute banger.All solid characteristics IPA](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-19-beer-review-digital-ipa-@yeastieboysnz-@ukyeastieboys-absolute-bangerall-solid-characteristics-ipa.png)
 
 ***
 **ABV:** 5.7%

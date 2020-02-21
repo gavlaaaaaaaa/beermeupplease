@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Green Mountain @thornbridge - hazy Vermont session IPA I really enjoyed](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-18-beer-review-green-mountain-@thornbridge---hazy-vermont-session-ipai-really-enjoyed.png))
+![latest craft beer review Green Mountain @thornbridge - hazy Vermont session IPA I really enjoyed](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-18-beer-review-green-mountain-@thornbridge---hazy-vermont-session-ipai-really-enjoyed.png)
 
 ***
 **ABV:** 4.3%

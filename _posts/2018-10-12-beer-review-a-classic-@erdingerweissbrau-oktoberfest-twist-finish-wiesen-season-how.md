@@ -7,7 +7,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review A classic @erdinger.weissbrau Oktoberfest twist finish Wiesen season ](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-12-beer-review-a-classic-@erdingerweissbrau-oktoberfest-twist-finish-wiesen-season-how.png))
+![latest craft beer review A classic @erdinger.weissbrau Oktoberfest twist finish Wiesen season ](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-12-beer-review-a-classic-@erdingerweissbrau-oktoberfest-twist-finish-wiesen-season-how.png)
 
 ***
 **ABV:** 4.5%

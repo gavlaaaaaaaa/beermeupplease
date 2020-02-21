@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review @thornbridge back Florida Weisse This hazy raspberry sour fruity tart](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-25-beer-review-@thornbridge-back-florida-weisse-this-hazy-raspberry-sour-fruity-tart.png))
+![latest craft beer review @thornbridge back Florida Weisse This hazy raspberry sour fruity tart](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-25-beer-review-@thornbridge-back-florida-weisse-this-hazy-raspberry-sour-fruity-tart.png)
 
 ***
 **ABV:** 4.5%
