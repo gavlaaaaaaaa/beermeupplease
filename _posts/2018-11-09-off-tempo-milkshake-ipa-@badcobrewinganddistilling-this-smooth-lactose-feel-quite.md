@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Off Tempo Milkshake IPA @badcobrewinganddistilling This smooth lactose feel quite](https://instagram.fman1-1.fna.fbcdn.net/vp/3ecf528af7ecacfc8e0011466e0a1328/5C7A66CF/t51.2885-15/sh0.08/e35/p750x750/44790578_443386289524192_4956869598385302915_n.jpg?ig_cache_key=MTkwODc4OTA2MjQ3NTYxMDM0NA%3D%3D.2)
+![latest craft beer review Off Tempo Milkshake IPA @badcobrewinganddistilling This smooth lactose feel quite](https://www.lewisgavin.co.uk/beermeupplease/images/2018-11-09-off-tempo-milkshake-ipa-@badcobrewinganddistilling-this-smooth-lactose-feel-quite.png
 
 ***
 **ABV:** 5.8%

@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review The last spam trip @brewdogbristol nailing Jack Hammer](https://instagram.fman1-1.fna.fbcdn.net/vp/fe63504113a25e00e99f6e505be7699c/5CB1E37E/t51.2885-15/sh0.08/e35/p750x750/44419991_250897685607435_1411618055833485365_n.jpg?ig_cache_key=MTkxNDAzODM1NjM3MTgwMjY1NA%3D%3D.2)
+![latest craft beer review The last spam trip @brewdogbristol nailing Jack Hammer](https://www.lewisgavin.co.uk/beermeupplease/images/2018-11-16-the-last-spam-trip-@brewdogbristol---nailing-jack-hammer-i.png)
 
 ***
 **ABV:** 7.2%

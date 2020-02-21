@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Stone Boat Light Ale Portmeirion citrus malt kick lager like](https://instagram.fman1-1.fna.fbcdn.net/vp/04ae85855269f2a6de146cf3092c0400/5C6EA088/t51.2885-15/sh0.08/e35/p750x750/42814934_332281397526180_2105477017058505915_n.jpg?ig_cache_key=MTg4MjY4NzY2NDM3MzY3NDc2Nw%3D%3D.2)
+![latest craft beer review Stone Boat Light Ale Portmeirion citrus malt kick lager like](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-04-beer-review-stone-boat-light-ale-portmeirion-citrus-malt-kick-lager-like.png))
 
 ***
 **ABV:** 3.7%

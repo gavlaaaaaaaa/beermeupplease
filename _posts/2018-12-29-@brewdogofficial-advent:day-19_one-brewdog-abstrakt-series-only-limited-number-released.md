@@ -20,7 +20,7 @@ author: Lewis Gavin
 ***
 
 
-![latest craft beer @brewdogofficial Advent:DAY 19 One Brewdog Abstrakt series. AB24](https://scontent-lht6-1.cdninstagram.com/vp/cef9d69e2a32e8aaf84dc4a7a5d4143a/5CC87AC4/t51.2885-15/sh0.08/e35/p750x750/47692687_351147935669743_5584109906073890022_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&ig_cache_key=MTk0NTMxOTM1MDIxMDg3NDYwOQ%3D%3D.2)
+![latest craft beer @brewdogofficial Advent:DAY 19 One Brewdog Abstrakt series. AB24](https://www.lewisgavin.co.uk/beermeupplease/images/2018-12-29-@brewdogofficial-advent:day-19_one-brewdog-abstrakt-series-only-limited-number-released.png)
 
 @brewdogofficial Advent: DAY 19
 

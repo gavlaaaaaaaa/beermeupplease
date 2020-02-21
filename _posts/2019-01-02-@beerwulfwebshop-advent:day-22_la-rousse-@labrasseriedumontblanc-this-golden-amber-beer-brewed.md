@@ -7,7 +7,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer @beerwulfwebshop Advent:DAY 22 La Rousse BRasserie Du Mont Blanc ](https://scontent-lht6-1.cdninstagram.com/vp/918c31be6547769ce5466ed340e12dab/5CC16162/t51.2885-15/sh0.08/e35/p750x750/47584731_273728313302690_1251593914519180118_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&ig_cache_key=MTk0NzkwMTg1NTMwODgwOTk4NA%3D%3D.2)
+![latest craft beer @beerwulfwebshop Advent:DAY 22 La Rousse BRasserie Du Mont Blanc ](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-02-@beerwulfwebshop-advent:day-22_la-rousse-@labrasseriedumontblanc-this-golden-amber-beer-brewed.png))
 
 ***
 **ABV:** 6.5%

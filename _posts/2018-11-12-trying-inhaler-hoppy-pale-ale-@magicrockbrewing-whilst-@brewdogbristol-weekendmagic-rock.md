@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Trying Inhaler Hoppy Pale Ale @magicrockbrewing whilst @brewdogbristol weekend!Magic Rock](https://instagram.fman1-1.fna.fbcdn.net/vp/457af64bf930f635cc9a14e92d50b6ce/5C8F3587/t51.2885-15/sh0.08/e35/p750x750/43986133_2084308875213129_8651820148165303249_n.jpg?ig_cache_key=MTkxMDk2MTU5NDMwNTgzNDc5NA%3D%3D.2)
+![latest craft beer review Trying Inhaler Hoppy Pale Ale @magicrockbrewing whilst @brewdogbristol weekend!Magic Rock](https://www.lewisgavin.co.uk/beermeupplease/images/2018-11-12-trying-inhaler-hoppy-pale-ale-@magicrockbrewing-whilst-@brewdogbristol-weekendmagic-rock.png)
 
 ***
 **ABV:** 4.5%

@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer Goram Butcome](https://scontent-lht6-1.cdninstagram.com/vp/9540f4beeff3c49bf7faadb5a9478b2a/5CCDDA88/t51.2885-15/sh0.08/e35/p750x750/49759343_280784399279280_4775166936057883285_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&ig_cache_key=MTk2MDQwOTE1NzgyMzY1NjI5Mg%3D%3D.2)
+![latest craft beer Goram Butcome](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-19-goram-@butcombe-classic-english-pale-alefresh-slight-hoppiness-very-clean.png)
 
 ***
 **ABV:** 5%

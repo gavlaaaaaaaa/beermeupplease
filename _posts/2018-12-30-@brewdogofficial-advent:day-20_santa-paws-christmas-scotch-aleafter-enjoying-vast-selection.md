@@ -8,7 +8,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer @brewdogofficial Advent:DAY 20 Santa Paws Christmas scotch ale](https://scontent-lht6-1.cdninstagram.com/vp/c59311dc10cd0b68d0e74765d1b44244/5CFE6DEB/t51.2885-15/sh0.08/e35/p750x750/47465983_2043308022411726_5153497558615574770_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&ig_cache_key=MTk0NTkyOTMzOTMyNTQwMzY0Nw%3D%3D.2)
+![latest craft beer @brewdogofficial Advent:DAY 20 Santa Paws Christmas scotch ale](https://www.lewisgavin.co.uk/beermeupplease/images/2018-12-30-@brewdogofficial-advent:day-20_santa-paws-christmas-scotch-aleafter-enjoying-vast-selection.png)
 
 ***
 **ABV:** 4.5%

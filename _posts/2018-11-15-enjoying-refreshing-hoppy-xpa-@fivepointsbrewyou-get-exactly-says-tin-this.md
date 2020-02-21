@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Enjoying refreshing hoppy XPA @fivepointsbrew.You get exactly says tin this.](https://instagram.fman1-1.fna.fbcdn.net/vp/a42f48cd4b141e2c3311ec46ef18205d/5C826103/t51.2885-15/sh0.08/e35/s750x750/42903580_257239628300764_950961931083096650_n.jpg?ig_cache_key=MTkxMzEzMDU0NTEyMjk3Mjk3NA%3D%3D.2)
+![latest craft beer review Enjoying refreshing hoppy XPA @fivepointsbrew.You get exactly says tin this.](https://www.lewisgavin.co.uk/beermeupplease/images/2018-11-15-enjoying-refreshing-hoppy-xpa-@fivepointsbrewyou-get-exactly-says-tin-this.png)
 
 ***
 **ABV:** 4.0%

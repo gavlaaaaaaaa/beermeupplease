@@ -7,7 +7,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Guavarita Vice @magicrockbrewing @collectivebrew sour sensation - imagine based ingredients.](https://instagram.fman1-1.fna.fbcdn.net/vp/a0105e182673d5ef01d5747eb5c37440/5C85007D/t51.2885-15/sh0.08/e35/p750x750/42189661_697679997283672_6202237164813244504_n.jpg?ig_cache_key=MTg4Nzc1MTgwNTA5ODY1NjE3Ng%3D%3D.2)
+![latest craft beer review Guavarita Vice @magicrockbrewing @collectivebrew sour sensation - imagine based ingredients.](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-11-beer-review-guavarita-vice-@magicrockbrewing-@collectivebrew-sour-sensation---imagine-based-ingredients.png))
 
 ***
 **ABV:** 4.5%

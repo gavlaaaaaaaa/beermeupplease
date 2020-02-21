@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review When glass sums existence Enjoying pint two @camdentownbrewery pale ale](https://instagram.fman1-1.fna.fbcdn.net/vp/24a1bd36399ce2261a2eea859c86a956/5C8C2111/t51.2885-15/sh0.08/e35/p750x750/44524790_992577054263224_6977339786243839082_n.jpg?ig_cache_key=MTkxMDI2NDEwODEwMDU3Mjc2Ng%3D%3D.2)
+![latest craft beer review When glass sums existence Enjoying pint two @camdentownbrewery pale ale](https://www.lewisgavin.co.uk/beermeupplease/images/2018-11-11-when-glass-sums-existence-enjoying-pint-two-@camdentownbrewery-pale-ale.png)
 
 ***
 **ABV:** 4%

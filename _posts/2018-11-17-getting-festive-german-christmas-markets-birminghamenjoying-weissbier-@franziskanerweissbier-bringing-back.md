@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Getting festive German Christmas markets Birmingham.Enjoying Weissbier @franziskaner.weissbier bringing back](https://instagram.fman1-1.fna.fbcdn.net/vp/660b36a13e6c5f51fb5c94860b6e48a3/5C8EE760/t51.2885-15/sh0.08/e35/p750x750/43913047_343665126447309_6322122623588956035_n.jpg?ig_cache_key=MTkxNDc2ODI5Mjg5MjAyOTE0Mg%3D%3D.2)
+![latest craft beer review Getting festive German Christmas markets Birmingham.Enjoying Weissbier @franziskaner.weissbier bringing back](https://www.lewisgavin.co.uk/beermeupplease/images/2018-11-17-getting-festive-german-christmas-markets-birminghamenjoying-weissbier-@franziskanerweissbier-bringing-back.png)
 
 ***
 **ABV:** 5%

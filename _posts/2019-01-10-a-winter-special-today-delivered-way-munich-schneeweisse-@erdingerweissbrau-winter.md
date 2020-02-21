@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer schneeweisse weissbier erdinger](https://scontent-lht6-1.cdninstagram.com/vp/5bdbf27b7c59a71f1d274669f8490193/5CE2F24E/t51.2885-15/sh0.08/e35/p750x750/49302081_381880179037881_9060032055882840649_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&ig_cache_key=MTk1MzcwNzU2MDY1ODY3MDg3Ng%3D%3D.2)
+![latest craft beer schneeweisse weissbier erdinger](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-10-a-winter-special-today-delivered-way-munich-schneeweisse-@erdingerweissbrau-winter.png))
 
 ***
 **ABV:** 5.6%

@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer01 18 Off Tempo DIPA @badcobrewinganddistillingA classic yet powerful American](https://instagram.fman1-1.fna.fbcdn.net/vp/082a43613945013644e7c10f7c2152fe/5C73D9BC/t51.2885-15/e35/44251918_1143487292471010_6391747700466809156_n.jpg?ig_cache_key=MTkwMzAxMjA2ODI1MzA2MTM1Nw%3D%3D.2)
+![latest craft beer01 18 Off Tempo DIPA @badcobrewinganddistillingA classic yet powerful American](https://www.lewisgavin.co.uk/beermeupplease/images/2018-11-01-01-18-off-tempo-dipa-@badcobrewinganddistillinga-classic-yet-powerful-american.png)
 
 ***
 **ABV:** 7.4%

@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beerLatest mini haul @thecheeseginandalebarn weekend. Picked pales @electricbearbrewing, Arbor @wildcardbrewery](https://instagram.fman1-1.fna.fbcdn.net/vp/ebcf911a3189cc91e8202c1b6b3cb11f/5C7D14A9/t51.2885-15/sh0.08/e35/p750x750/43720899_255425641807903_2626562158498315646_n.jpg?ig_cache_key=MTkwNTE0NTEwMDI4NDAwOTUwMQ%3D%3D.2)
+![latest craft beerLatest mini haul @thecheeseginandalebarn weekend. Picked pales @electricbearbrewing, Arbor @wildcardbrewery](https://www.lewisgavin.co.uk/beermeupplease/images/2018-11-04-latest-mini-haul-@thecheeseginandalebarn-weekendpicked-pales-@electricbearbrewing-arbor-@wildcardbrewery.png)
 
 Latest mini haul from  [@thecheeseginandalebarn](https://instagram.com/thecheeseginandalebarn) this weekend.
 

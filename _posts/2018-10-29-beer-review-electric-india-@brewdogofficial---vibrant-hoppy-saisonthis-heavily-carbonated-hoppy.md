@@ -7,7 +7,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Electric India @brewdogofficial - Vibrant Hoppy Saison This heavily carbonated, Hoppy](https://instagram.fman1-1.fna.fbcdn.net/vp/49dbca661ab163a5ee423397c6241fcc/5C6A2F99/t51.2885-15/sh0.08/e35/p750x750/44235963_781688582162427_3987719105291523564_n.jpg?ig_cache_key=MTkwMDc5ODY0NjEyODA1MjIyOQ%3D%3D.2)
+![latest craft beer review Electric India @brewdogofficial - Vibrant Hoppy Saison This heavily carbonated, Hoppy](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-29-beer-review-electric-india-@brewdogofficial---vibrant-hoppy-saisonthis-heavily-carbonated-hoppy.png
 
 ***
 **ABV:** 5.2%

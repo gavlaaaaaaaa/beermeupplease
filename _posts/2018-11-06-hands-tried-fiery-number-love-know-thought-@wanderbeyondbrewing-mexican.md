@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer Hands tried fiery number @wanderbeyondbrewing Mexican cake](https://instagram.fman1-1.fna.fbcdn.net/vp/3ee21dec1007eba0715f1045e3bc2bc0/5C82E356/t51.2885-15/sh0.08/e35/p750x750/44691802_348919499015902_1711219258987899757_n.jpg?ig_cache_key=MTkwNjYyNDQ2MTU4NzYzMjU4Mg%3D%3D.2)
+![latest craft beer Hands tried fiery number @wanderbeyondbrewing Mexican cake](https://www.lewisgavin.co.uk/beermeupplease/images/2018-11-06-hands-tried-fiery-number-love-know-thought-@wanderbeyondbrewing-mexican.png))
 
 ***
 **ABV:** 11%

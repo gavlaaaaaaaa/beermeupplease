@@ -7,7 +7,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer bohemian pilsner bellfield](https://scontent-lht6-1.cdninstagram.com/vp/e9f2dc690dbc1a9bc12be3368492a312/5CC6A841/t51.2885-15/sh0.08/e35/s750x750/47585573_2208633049158976_3686063885057784135_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&ig_cache_key=MTk0OTM2MDA4MTU5MDA3MDI3Mg%3D%3D.2)
+![latest craft beer bohemian pilsner bellfield](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-04-the-other-end-is-here-@beerwulfwebshop-advent:day-24_this-really-end.png))
 
 ***
 **ABV:** 4.5%

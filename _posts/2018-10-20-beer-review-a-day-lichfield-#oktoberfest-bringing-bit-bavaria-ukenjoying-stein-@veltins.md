@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review A day Lichfield #oktoberfest bringing bit Bavaria UK.Enjoying stein @veltins](https://instagram.fman1-1.fna.fbcdn.net/vp/1ea00131dca1ab0f8ebeaf0bec0ba57b/5C84BA55/t51.2885-15/sh0.08/e35/p750x750/43683041_532182723873397_4078631764552357453_n.jpg?ig_cache_key=MTg5NDI3ODc1NDg2MDE5NzUzMg%3D%3D.2)
+![latest craft beer review A day Lichfield #oktoberfest bringing bit Bavaria UK.Enjoying stein @veltins](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-20-beer-review-a-day-lichfield-#oktoberfest-bringing-bit-bavaria-ukenjoying-stein-@veltins.png))
 
 ***
 **ABV:** 4.8%

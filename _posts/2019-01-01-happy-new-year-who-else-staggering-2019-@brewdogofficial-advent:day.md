@@ -9,7 +9,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer Happy new year! Who else is staggering 2019?  Brewdog Albino Squid Assassin](https://scontent-lht6-1.cdninstagram.com/vp/07fab0e923fd4d814823d2cd6338f482/5CDD89FD/t51.2885-15/sh0.08/e35/s750x750/47584278_174428776853685_8655434762315656979_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&ig_cache_key=MTk0NzE5MDkzODQ0NzM3MTY2Mw%3D%3D.2)
+![latest craft beer Happy new year! Who else is staggering 2019?  Brewdog Albino Squid Assassin](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-01-happy-new-year-who-else-staggering-2019-@brewdogofficial-advent:day.png))
 
 ***
 **ABV:** 11.5%

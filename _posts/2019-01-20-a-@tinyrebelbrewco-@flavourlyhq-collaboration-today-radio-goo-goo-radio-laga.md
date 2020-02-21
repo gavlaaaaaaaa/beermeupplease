@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer radio laga flavourly tiny rebel](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-20-a-@tinyrebelbrewco-@flavourlyhq-collaboration-today-radio-goo-goo-radio-laga.png)
+![latest craft beer radio laga flavourly tiny rebel](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-20-a-@tinyrebelbrewco-@flavourlyhq-collaboration-today-radio-goo-goo-radio-laga.png)))
 
 ***
 **ABV:** 4%

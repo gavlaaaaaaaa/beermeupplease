@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Milk Chai Stout @mantraartisan whilst chilling @brewdogbristol This really tasted](https://instagram.fman1-1.fna.fbcdn.net/vp/5a5eeae2c6d1f14d83cd5419b2e8cf4e/5CAF9505/t51.2885-15/sh0.08/e35/p750x750/44702339_213034056291989_2399771742820789289_n.jpg?ig_cache_key=MTkxMTcxOTUxOTI2NTUxNzQ0NA%3D%3D.2)
+![latest craft beer review Milk Chai Stout @mantraartisan whilst chilling @brewdogbristol This really tasted](https://www.lewisgavin.co.uk/beermeupplease/images/2018-11-13-milk-chai-stout-@mantraartisan-whilst-chilling-@brewdogbristol-this-really-tasted.png)
 
 ***
 **ABV:** 4.5%

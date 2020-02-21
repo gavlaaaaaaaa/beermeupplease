@@ -7,7 +7,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer Woohoooo DAMN SON! @magicrockbrewing killing Damson Sour IPA collab @hawksheadbrewery](https://instagram.fman1-1.fna.fbcdn.net/vp/1510f9edd51a77f620aca278e415170d/5C6C53BF/t51.2885-15/sh0.08/e35/p750x750/44409666_467624460426989_2203365544244817408_n.jpg?ig_cache_key=MTkwMjI3MzM5NDUxMTA1MDQ3MA%3D%3D.2)
+![latest craft beer Woohoooo DAMN SON! @magicrockbrewing killing Damson Sour IPA collab @hawksheadbrewery](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-31-beer-review-woohoooo-damn-son-@magicrockbrewing-killing-damson-sour-ipa-collab-@hawksheadbrewery.png)
 
 ***
 **ABV:** 6.5%

@@ -7,7 +7,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer hop fiction brewdog citrus ipa](https://scontent-lht6-1.cdninstagram.com/vp/c374913061365d29f0fdc2f6f5226497/5CC5FECA/t51.2885-15/sh0.08/e35/p750x750/49759369_1938267956469843_5421809344496130506_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&ig_cache_key=MTk1NTM3NjczOTYwOTg4MTI4Nw%3D%3D.2)
+![latest craft beer hop fiction brewdog citrus ipa](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-12-throw-back-nye-enjoying-amazing-hop-fiction-@brewdogofficial-bags-citrus.png))
 
 ***
 **ABV:** 4.2%

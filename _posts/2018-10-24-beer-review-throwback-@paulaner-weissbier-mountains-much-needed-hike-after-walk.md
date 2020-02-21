@@ -6,7 +6,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer review Throwback @paulaner Weissbier mountains much needed hike walk](https://instagram.fman1-1.fna.fbcdn.net/vp/165f3e38072bf11c1fe30bccd8ea1889/5C75E3F4/t51.2885-15/sh0.08/e35/s750x750/43778373_171293923816104_2557053420493269885_n.jpg?ig_cache_key=MTg5NzE0NDg4Mzc3NzM5NTQ0Nw%3D%3D.2)
+![latest craft beer review Throwback @paulaner Weissbier mountains much needed hike walk](https://www.lewisgavin.co.uk/beermeupplease/images/2018-10-24-beer-review-throwback-@paulaner-weissbier-mountains-much-needed-hike-after-walk.png))
 
 ***
 **ABV:** 5.5%

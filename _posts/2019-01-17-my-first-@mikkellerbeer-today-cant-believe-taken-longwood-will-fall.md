@@ -7,7 +7,7 @@ tags:
 author: Lewis Gavin
 ---
 
-![latest craft beer mikkeller Wood Will Fall down](https://scontent-lht6-1.cdninstagram.com/vp/04c99d1c30927c204c77cd82144c38b0/5CCD30AF/t51.2885-15/sh0.08/e35/s750x750/49683248_661720737616903_2512078674700789719_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&ig_cache_key=MTk1ODc4MDM0MTQwNTY3NTU4Nw%3D%3D.2)
+![latest craft beer mikkeller Wood Will Fall down](https://www.lewisgavin.co.uk/beermeupplease/images/2019-01-17-my-first-@mikkellerbeer-today-cant-believe-taken-longwood-will-fall.png)
 
 ***
 **ABV:** 4.2%
