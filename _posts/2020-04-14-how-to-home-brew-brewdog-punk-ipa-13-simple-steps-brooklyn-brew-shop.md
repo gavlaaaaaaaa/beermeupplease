@@ -5,6 +5,7 @@ tags:
 - homebrew 
 author: Lewis Gavin
 ---
+![How to homebrew brewdog punk ipa](https://www.lewisgavin.co.uk/beermeupplease/images/punipa-header.jpeg)
 
 If you've recently obtained a Brooklyn Brew Shop Punk IPA kit or are just curious about brewing brewdogs iconic Punk IPA then this is the guide for you. I'll assume you already have the kit, if not you can [grab one by clicking here](https://shareasale.com/r.cfm?b=1274641&u=2068073&m=84104&urllink=&afftrack=) OR grab the ingredients individually (I'll list them later).
 
@@ -52,6 +53,8 @@ Boom, step 1 complete!
 
 Now your water is up to temperature, get your grains and add them all to the water. This should bring the temperature of the water down slightly which is just what we need.
 
+![cooking the grains](https://www.lewisgavin.co.uk/beermeupplease/images/cooking-grains.png)
+
 Cook the grains **making sure the temperature is between 63 and 68 celcius** for 1 hour. It's important to keep the grains between that temperature for the whole hour.
 
 You probably won't need to keep them on a constant heat so just heat when needed to prevent falling below 63c and then turn it off again. I recommend checking up on it every 15 minutes or so to ensure the temperature is ok and to give it a quick stir.
@@ -62,6 +65,8 @@ After an hour has passed you're now ready to begin "Mashing Out". This process i
 
 This helps loosen the grains up ready for the next step and also ensures we get all the last bits of goodness out of the grain and into the liquid.
 
+![mashing out](https://www.lewisgavin.co.uk/beermeupplease/images/mashing-grains.gif)
+
 Don't heat it too quickly, just apply some heat and keep stirring for about 5 minutes or so.
 
 ## Step 4 - The Sparge
@@ -70,9 +75,13 @@ Once your grain mixture is up to 77c take everything off the heat and you are no
 
 For this you will need another one of the large pots and the strainer or straining bag. Set the strainer up over the empty pot and pour your grain contents into the strainer so the liquid gets collected in the pot. You need to make sure that you collect a total of 4.75 litres of liquid in the new pot.
 
+![sparge straining](https://www.lewisgavin.co.uk/beermeupplease/images/straining.png)
+
 With just the liquid from your grain mix, you obviously wont have enough, so heat some water up seperately to 77 celcius to make up the difference. Once up to temperature, pour this over the grains too so its collected in the new pot.
 
 This liquid thats been collected is the **beer** and is called *the wort*. Pour your wort through the grains a couple of times (you'll need to juggle pots at this point to get this to work) and you should be left with 4.75 litres of beautiful wort in a pot, and your grains in the strainer.
+
+![straining the wort](https://www.lewisgavin.co.uk/beermeupplease/images/straining-wort.png)
 
 **TIP** - You are now done with the grains and can discard them however you can use these spent grains for bread making or composting if you'd rather not just throw them away.
 
@@ -83,6 +92,8 @@ Super simple step this. Heat your wort until it boils and you see it starting to
 ## Step 6 - Hop Time
 
 It's time to add the first lot of hops. Now your wort is on a light boil, set a timer for 45 minutes and add 5 or so pellets of the Ahtanum hops. Just drop them into the wort, give it a quick stir and leave it on a light boil.
+
+![adding the hops](https://www.lewisgavin.co.uk/beermeupplease/images/adding-hops.png)
 
 You can enjoy a beer and relax because you don't need to do anything for 45 minutes.
 
@@ -106,16 +117,21 @@ I recommend creating an ice bath in a sink or large container and setting your c
 
 Once your wort is down to 21c it's time to transfer it from the pot and into the Demi-John (remember to sanitize). To do this I recommend using a funnel and a small sieve to catch any large leftovers in the wort.
 
+![transferring to the demi john](https://www.lewisgavin.co.uk/beermeupplease/images/transfer-demijohn.png)
+
 You may need someone to help, but simply pour the liquid from the pot, through the sieve and funnel, and into the demi-john.
 
 ## Step 11 - Pitching the Yeast
 
 Super simple. Just pour all of the yeast into the top of the demi-john.
 
+![pitch the years](https://www.lewisgavin.co.uk/beermeupplease/images/pitching-yeast.png)
 
 ## Step 12 - Shake it Shake it Baby!
 
 Sanitize 1 of your hands so you can use it to block the top of the demi-john whilst you give it a good shake.
+
+![activate the yeast](https://www.lewisgavin.co.uk/beermeupplease/images/shake-yeast.gif)
 
 Make sure you shake it up real good, do a little boogie whilst you're there for good measure. This will activate the yeast so it can begin turning those sugars into alcohol.
 
@@ -124,6 +140,8 @@ Make sure you shake it up real good, do a little boogie whilst you're there for 
 One of the byproducts of the yeast doing its business is carbon dioxide. This will form bubbles in the liquid and initially it might be a little too aggressive for a standard air lock.
 
 To solve this, you can create what's called a "blow off tube". Screw the cap on the demi-john, place the tubing an inch or so into the top and put the other end into a small bowl of sanitizer. This will allow the carbon dioxide to escape quickly through the tubing and out into the bowl of sanitizer.
+
+![blow off tube](https://www.lewisgavin.co.uk/beermeupplease/images/blowoff-tube.png)
 
 The next day you'll probably hear your blow off tube working. Your bowl of sanitizer will be popping away as bubbles escape from the tubing. 
 
@@ -134,11 +152,5 @@ Once this settles down (usually after a couple of days) you can replace your blo
 JOB DONE! You've just started the fermentation process. You now have (a long) 2 weeks ahead waiting for this to finish fermenting. 
 
 Make sure you keep somewhere dark and at room temperature (around 20 degrees celcius) for the whole two weeks and try not to move it around too often. In 2 to 3 weeks time fermentation should be complete and you'll be ready for bottling!
-
-
-
-
-
-
 
 
